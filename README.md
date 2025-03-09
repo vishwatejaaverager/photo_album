@@ -40,7 +40,7 @@ Images are fetched from [Picsum Photos](https://jsonplaceholder.typicode.com/pho
   ```
 - Install dependencies:
   ```sh
-  npm install / flutter pub get
+  flutter pub get
   ```
 
 ### Running the App
